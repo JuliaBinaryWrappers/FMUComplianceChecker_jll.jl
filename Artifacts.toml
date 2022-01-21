@@ -1,0 +1,143 @@
+[[FMUComplianceChecker]]
+arch = "aarch64"
+git-tree-sha1 = "930a3ddb71c6863d77dc8f0f66cc3303be810581"
+os = "macos"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "99f55083d7f69bbe2ebb3b60f453e08e022c88baf946e9df23695546261a4776"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.aarch64-apple-darwin.tar.gz"
+[[FMUComplianceChecker]]
+arch = "aarch64"
+git-tree-sha1 = "227da884f6ceb6c84e423a15844e1317b7c1a891"
+libc = "glibc"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "436ea2a4fb22464b8946287c3ce5fc9a78222603cdfb1e49c6b38540f2b05e52"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.aarch64-linux-gnu.tar.gz"
+[[FMUComplianceChecker]]
+arch = "aarch64"
+git-tree-sha1 = "b8c4f88fa32f9e13e8fca7350dc5f9c2e8b05c6a"
+libc = "musl"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "28ead70ade111fc088ec475327e9ac2f5c9c56a2b566ecadc2ecea447c869c0c"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.aarch64-linux-musl.tar.gz"
+[[FMUComplianceChecker]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "16d8a89a1b49c0b41abcfa9661ba7712bd715e84"
+libc = "glibc"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "3dca709c332728947c2a525964a318b4aca004da5ba52a142824be29a8a7d135"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.armv6l-linux-gnueabihf.tar.gz"
+[[FMUComplianceChecker]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3c02a9cd833d8eb7f1c1106efd3a37255d189bba"
+libc = "musl"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "738dccfbe910451fd57031810db55ddee831461257d7ed978ea8aa81fc4260be"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.armv6l-linux-musleabihf.tar.gz"
+[[FMUComplianceChecker]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5596e0eab000ff3fd1ec600e5aa454e155722dd3"
+libc = "glibc"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "d602070c93288a01d3f6acf4005ffeb201f09ce52617b65a956baf86a6781872"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.armv7l-linux-gnueabihf.tar.gz"
+[[FMUComplianceChecker]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f5a31dec0c408ee670af9baf215cd30629b6264d"
+libc = "musl"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "6843b6eb85bd02e8473531ef3c83ef0d74f5c3592f214c1fd6e29fc9117e6501"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.armv7l-linux-musleabihf.tar.gz"
+[[FMUComplianceChecker]]
+arch = "i686"
+git-tree-sha1 = "0d478bc3592cb80f9ba3a96c7b606f1be0e4224a"
+libc = "glibc"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "ed0d710c40851e9f14131d5981e03adb663a6b4cb54c4004b0eec0e7968487d5"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.i686-linux-gnu.tar.gz"
+[[FMUComplianceChecker]]
+arch = "i686"
+git-tree-sha1 = "2c4b335f77d2726ec6f7460f4e98c730f2eb5c88"
+libc = "musl"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "5ad1e9e43be7873db9469427432d474b6eab454afc9459ca8b077bca7230f4cc"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.i686-linux-musl.tar.gz"
+[[FMUComplianceChecker]]
+arch = "i686"
+git-tree-sha1 = "089861b751ee6fdfd9882f3b991af74af269794f"
+os = "windows"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "f62c81fa630b873d4820612a38a65fedcb99d7fe1e6aa51e9276fd699d62e2cd"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.i686-w64-mingw32.tar.gz"
+[[FMUComplianceChecker]]
+arch = "powerpc64le"
+git-tree-sha1 = "34cef5e0a401bc962e326d3ea7bc361f3e8a2907"
+libc = "glibc"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "e4e3eb246525990b71748bd1a2572a0c4412034665771ca8abfc5c5bc5bcb396"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.powerpc64le-linux-gnu.tar.gz"
+[[FMUComplianceChecker]]
+arch = "x86_64"
+git-tree-sha1 = "fab5d8a96bfc8c66b995a0aa331252a9f318b5e3"
+os = "macos"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "5961a8f8366d46bad7f788b9cb53f065c01fef3eb95db8a4e2b012ac596f874f"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.x86_64-apple-darwin.tar.gz"
+[[FMUComplianceChecker]]
+arch = "x86_64"
+git-tree-sha1 = "ab08fd1439cc31d15b025c2c3a12aaa0b728dda0"
+libc = "glibc"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "7ad152189d7adcaba32b05ce8bd00c4fc326d9d1a7fe171c3b07496706a148e5"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.x86_64-linux-gnu.tar.gz"
+[[FMUComplianceChecker]]
+arch = "x86_64"
+git-tree-sha1 = "4f4d229202a20049867103d1a531f76ee3337c41"
+libc = "musl"
+os = "linux"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "561055552a2c9c9c3fee404e00f7cc4dd4b71ca5f831bfdd4382cfe7fd68dcd6"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.x86_64-linux-musl.tar.gz"
+[[FMUComplianceChecker]]
+arch = "x86_64"
+git-tree-sha1 = "b72ab7c085e8ebe428202bf567baab0f25412470"
+os = "freebsd"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "16cf8f9b8fd5b068182d17fd38b09e476045254390feabe1d22af796601443f2"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.x86_64-unknown-freebsd.tar.gz"
+[[FMUComplianceChecker]]
+arch = "x86_64"
+git-tree-sha1 = "6b89d0c2595cdf818f13b05cb40f798fb31e8ff9"
+os = "windows"
+
+    [[FMUComplianceChecker.download]]
+    sha256 = "821c0b2ef0bf9e79d5f080d6fd91d0998bfc2eb36329def9add0d64756fed35b"
+    url = "https://github.com/JuliaBinaryWrappers/FMUComplianceChecker_jll.jl/releases/download/FMUComplianceChecker-v2.0.4+0/FMUComplianceChecker.v2.0.4.x86_64-w64-mingw32.tar.gz"
